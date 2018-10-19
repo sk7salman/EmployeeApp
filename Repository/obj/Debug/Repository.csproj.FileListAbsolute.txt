@@ -1,0 +1,15 @@
+C:\Users\redbytes\source\repos\EmployeeApplication\Repository\bin\Debug\Repository.dll.config
+C:\Users\redbytes\source\repos\EmployeeApplication\Repository\bin\Debug\Repository.dll
+C:\Users\redbytes\source\repos\EmployeeApplication\Repository\bin\Debug\Repository.pdb
+C:\Users\redbytes\source\repos\EmployeeApplication\Repository\bin\Debug\EntityFramework.dll
+C:\Users\redbytes\source\repos\EmployeeApplication\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\redbytes\source\repos\EmployeeApplication\Repository\bin\Debug\Models.dll
+C:\Users\redbytes\source\repos\EmployeeApplication\Repository\bin\Debug\Models.pdb
+C:\Users\redbytes\source\repos\EmployeeApplication\Repository\bin\Debug\Models.dll.config
+C:\Users\redbytes\source\repos\EmployeeApplication\Repository\bin\Debug\EntityFramework.xml
+C:\Users\redbytes\source\repos\EmployeeApplication\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\redbytes\source\repos\EmployeeApplication\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+C:\Users\redbytes\source\repos\EmployeeApplication\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\redbytes\source\repos\EmployeeApplication\Repository\obj\Debug\Repository.csproj.CopyComplete
+C:\Users\redbytes\source\repos\EmployeeApplication\Repository\obj\Debug\Repository.dll
+C:\Users\redbytes\source\repos\EmployeeApplication\Repository\obj\Debug\Repository.pdb
